@@ -10,6 +10,9 @@ export default defineConfig({
       "jd6fzn-5173.csb.app",
       "jd6fzn-2222.csb.app",
       "jd6fzn-50000.csb.app",
+      "k7p5jd-5173.csb.app",
+      "k7p5jd-5174.csb.app",
+      "k7p5jd-2222.csb.app"
     ],
   },
 })
