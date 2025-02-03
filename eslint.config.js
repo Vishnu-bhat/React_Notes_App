@@ -16,8 +16,8 @@ export default [
         sourceType: 'module',
       },
     },
-    settings: { react: { version: 'detect' } }, // Auto-detect React version
-    plugins: ['react', 'react-hooks', 'react-refresh'], // Plugins should be an array
+    settings: { react: { version: 'detect' } },
+    plugins: ['react', 'react-hooks', 'react-refresh'],
     rules: {
       ...js.configs.recommended.rules,
       ...react.configs.recommended.rules,
@@ -31,3 +31,4 @@ export default [
     },
   },
 ];
+
